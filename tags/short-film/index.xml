@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>short film on Raghu G</title>
+    <link>https://raghug.com/tags/short-film/</link>
+    <description>Recent content in short film on Raghu G</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 26 Jun 2013 11:45:26 +0530</lastBuildDate><atom:link href="https://raghug.com/tags/short-film/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shelter</title>
+      <link>https://raghug.com/posts/shelter/</link>
+      <pubDate>Wed, 26 Jun 2013 11:45:26 +0530</pubDate>
+      
+      <guid>https://raghug.com/posts/shelter/</guid>
+      <description>Shelter</description>
+    </item>
+    
+  </channel>
+</rss>
