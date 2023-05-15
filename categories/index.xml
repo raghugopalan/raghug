@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Raghu G</title>
+    <title>Categories on Raghu G.</title>
     <link>https://raghug.com/categories/</link>
-    <description>Recent content in Categories on Raghu G</description>
+    <description>Recent content in Categories on Raghu G.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 09 Nov 2021 11:14:07 +0530</lastBuildDate><atom:link href="https://raghug.com/categories/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,9 @@
       <pubDate>Tue, 09 Nov 2021 11:14:07 +0530</pubDate>
       
       <guid>https://raghug.com/categories/art/</guid>
-      <description></description>
+      
+        <description></description>
+      
     </item>
     
   </channel>

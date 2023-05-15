@@ -1,20 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>anime on Raghu G</title>
+    <title>anime on Raghu G.</title>
     <link>https://raghug.com/tags/anime/</link>
-    <description>Recent content in anime on Raghu G</description>
+    <description>Recent content in anime on Raghu G.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 09 Oct 2021 19:03:13 +0530</lastBuildDate><atom:link href="https://raghug.com/tags/anime/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hayao Miyazaki</title>
-      <link>https://raghug.com/posts/miyazaki/</link>
+      <link>https://raghug.com/post/miyazaki/</link>
       <pubDate>Sat, 09 Oct 2021 19:03:13 +0530</pubDate>
       
-      <guid>https://raghug.com/posts/miyazaki/</guid>
-      <description>എക്കാലത്തേയും പ്രിയപ്പെട്ട സിനിമാക്കാരൻ: ഹയാവോ മിയാസാക്കി.
-Videos: 1 2 3 4 </description>
+      <guid>https://raghug.com/post/miyazaki/</guid>
+      
+        <description>എക്കാലത്തേയും പ്രിയപ്പെട്ട സിനിമാക്കാരൻ: ഹയാവോ മിയാസാക്കി.
+Videos:  1 2 3 4  </description>
+      
     </item>
     
   </channel>

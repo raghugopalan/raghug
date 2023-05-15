@@ -1,31 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>tweets on Raghu G</title>
+    <title>tweets on Raghu G.</title>
     <link>https://raghug.com/tags/tweets/</link>
-    <description>Recent content in tweets on Raghu G</description>
+    <description>Recent content in tweets on Raghu G.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 24 Sep 2015 11:00:34 +0530</lastBuildDate><atom:link href="https://raghug.com/tags/tweets/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Quentin Tarantino</title>
-      <link>https://raghug.com/posts/tarantino/</link>
+      <link>https://raghug.com/post/tarantino/</link>
       <pubDate>Thu, 24 Sep 2015 11:00:34 +0530</pubDate>
       
-      <guid>https://raghug.com/posts/tarantino/</guid>
-      <description>Quentin Tarantino എഴുതുന്നത് പേപ്പറും പേനയുമുപയോഗിച്ചാണ്.
+      <guid>https://raghug.com/post/tarantino/</guid>
+      
+        <description>Quentin Tarantino എഴുതുന്നത് പേപ്പറും പേനയുമുപയോഗിച്ചാണ്.
 അതിനു ശേഷം ഒറ്റ വിരല്‍ മാത്രമുപയോഗിച്ചാണത്രേ ടൈപ്പ് ചെയ്യുന്നത്.</description>
+      
     </item>
     
     <item>
       <title>John</title>
-      <link>https://raghug.com/posts/john/</link>
+      <link>https://raghug.com/post/john/</link>
       <pubDate>Thu, 24 Sep 2015 10:59:26 +0530</pubDate>
       
-      <guid>https://raghug.com/posts/john/</guid>
-      <description>ഇന്ന്, ശ്രീ.ഹബീബ് സംവിധാനം ചെയ്ത ജോണ്‍ എബ്രഹാമിനെപ്പറ്റിയുള്ള ഡോക്യുമെൻ്ററി, വിക്ടേഴ്സ് ചാനലില്‍ കണ്ടു.
-എനിക്കറിയാത്ത, ജോണിനെപ്പറ്റിയുള്ള ചില കാര്യങ്ങള്‍,
-രണ്ടാഴ്ചയോളം നീണ്ടുനിന്ന ഒരു ദാമ്പത്യജീവിതം ജോണിനുണ്ടായിരുന്നു. ഹിമാലയത്തെക്കുറിച്ചും തെയ്യത്തെക്കുറിച്ചും രണ്ടു ഡോക്യുമെൻ്ററികള്‍ ജോണ്‍ ചെയ്തിരുന്നു. </description>
+      <guid>https://raghug.com/post/john/</guid>
+      
+        <description>ഇന്ന്, ശ്രീ.ഹബീബ് സംവിധാനം ചെയ്ത ജോണ്‍ എബ്രഹാമിനെപ്പറ്റിയുള്ള ഡോക്യുമെൻ്ററി, വിക്ടേഴ്സ് ചാനലില്‍ കണ്ടു.</description>
+      
     </item>
     
   </channel>

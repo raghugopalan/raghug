@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>blog on Raghu G</title>
+    <title>blog on Raghu G.</title>
     <link>https://raghug.com/tags/blog/</link>
-    <description>Recent content in blog on Raghu G</description>
+    <description>Recent content in blog on Raghu G.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 17 May 2006 11:12:00 +0530</lastBuildDate><atom:link href="https://raghug.com/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello</title>
-      <link>https://raghug.com/posts/hello/</link>
+      <link>https://raghug.com/post/hello/</link>
       <pubDate>Wed, 17 May 2006 11:12:00 +0530</pubDate>
       
-      <guid>https://raghug.com/posts/hello/</guid>
-      <description>ആദ്യത്തെ പോസ്റ്റ്.</description>
+      <guid>https://raghug.com/post/hello/</guid>
+      
+        <description>ആദ്യത്തെ പോസ്റ്റ്.</description>
+      
     </item>
     
   </channel>

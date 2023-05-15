@@ -1,39 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>jots on Raghu G</title>
+    <title>jots on Raghu G.</title>
     <link>https://raghug.com/tags/jots/</link>
-    <description>Recent content in jots on Raghu G</description>
+    <description>Recent content in jots on Raghu G.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 25 Mar 2008 11:06:30 +0530</lastBuildDate><atom:link href="https://raghug.com/tags/jots/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kunjumeen</title>
-      <link>https://raghug.com/posts/kunjumeen/</link>
+      <link>https://raghug.com/post/kunjumeen/</link>
       <pubDate>Tue, 25 Mar 2008 11:06:30 +0530</pubDate>
       
-      <guid>https://raghug.com/posts/kunjumeen/</guid>
-      <description>അപ്പുണ്ണിയേട്ടാ, അപ്പുണ്ണിയേട്ടാ,
+      <guid>https://raghug.com/post/kunjumeen/</guid>
+      
+        <description>അപ്പുണ്ണിയേട്ടാ, അപ്പുണ്ണിയേട്ടാ,
 കുഞ്ഞുമീന്‍ കിട്ട്യാ കുട്ടനു തര്വോ?
 എന്തിനാ കുട്ടാ
 പൊഴേല് വിടാന്‍, നീന്തണ കാണാന്‍.</description>
+      
     </item>
     
     <item>
       <title>Njan</title>
-      <link>https://raghug.com/posts/njan/</link>
+      <link>https://raghug.com/post/njan/</link>
       <pubDate>Fri, 21 Mar 2008 11:08:34 +0530</pubDate>
       
-      <guid>https://raghug.com/posts/njan/</guid>
-      <description>മഴ നനഞ്ഞു നനഞ്ഞ്
+      <guid>https://raghug.com/post/njan/</guid>
+      
+        <description>മഴ നനഞ്ഞു നനഞ്ഞ്
 മടുത്തപ്പോ
 മഴയെ ഞാനൊരു കുടയാക്കി.
-വാക്കുകള്‍ പറഞ്ഞു പറഞ്ഞ്
-തളര്‍ന്നപ്പോ
-അതിനെ ഞാനൊരു വരയാക്കി.
-അവന്‍ വളര്‍ന്നു വളര്‍ന്ന്
-നിറഞ്ഞപ്പോ
-എന്നെ ഞാനൊരു നിഴലാക്കി.</description>
+വാക്കുകള്‍ പറഞ്ഞു പറഞ്ഞ്</description>
+      
     </item>
     
   </channel>

@@ -1,20 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>quote on Raghu G</title>
+    <title>quote on Raghu G.</title>
     <link>https://raghug.com/tags/quote/</link>
-    <description>Recent content in quote on Raghu G</description>
+    <description>Recent content in quote on Raghu G.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 31 Dec 2009 11:04:39 +0530</lastBuildDate><atom:link href="https://raghug.com/tags/quote/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New year</title>
-      <link>https://raghug.com/posts/newyear/</link>
+      <link>https://raghug.com/post/newyear/</link>
       <pubDate>Thu, 31 Dec 2009 11:04:39 +0530</pubDate>
       
-      <guid>https://raghug.com/posts/newyear/</guid>
-      <description>പുതുവത്സരത്തിന് പുതുതായൊന്നും തുടങ്ങരുത്.
+      <guid>https://raghug.com/post/newyear/</guid>
+      
+        <description>പുതുവത്സരത്തിന് പുതുതായൊന്നും തുടങ്ങരുത്.
 തുടങ്ങാനുള്ളത് പുതുവത്സരത്തിലേക്ക് മാറ്റിവയ്കുകയുമരുത്.</description>
+      
     </item>
     
   </channel>

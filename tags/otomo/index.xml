@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>otomo on Raghu G</title>
+    <title>otomo on Raghu G.</title>
     <link>https://raghug.com/tags/otomo/</link>
-    <description>Recent content in otomo on Raghu G</description>
+    <description>Recent content in otomo on Raghu G.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 17 Nov 2019 11:03:46 +0530</lastBuildDate><atom:link href="https://raghug.com/tags/otomo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Akira</title>
-      <link>https://raghug.com/posts/akira/</link>
+      <link>https://raghug.com/post/akira/</link>
       <pubDate>Sun, 17 Nov 2019 11:03:46 +0530</pubDate>
       
-      <guid>https://raghug.com/posts/akira/</guid>
-      <description>Akira എന്ന ഫിലിം ഇരുപതോളം വർഷങ്ങൾക്കു മുൻപാണ് കാണുന്നത്. അന്ന് അനിമേഷൻ സിനിമ (സിനിമ തന്നെയും) എന്ന സങ്കൽപം തന്നെ മാറ്റിമറിച്ച സിനിമയായിരുന്നു അത്.
-ഞാൻ കാണുന്നതിനും പത്തോളം വർഷങ്ങൾക്കു മുൻപാണ് ആ സിനിമ create ചെയ്തത്.
-Katsuhiro Otomo, ഇത് സംവിധാനം ചെയ്യുന്നതിന് ആറുവർഷങ്ങൾക്കു മുൻപ് അദ്ദേഹം തന്നെ ഒരു manga comics എഴുതി വരച്ചിരുന്നു.
-ആ കോമിക്സ് തന്നെ അസാധ്യ വർക്കാണ്.</description>
+      <guid>https://raghug.com/post/akira/</guid>
+      
+        <description>Akira എന്ന ഫിലിം ഇരുപതോളം വർഷങ്ങൾക്കു മുൻപാണ് കാണുന്നത്. അന്ന് അനിമേഷൻ സിനിമ (സിനിമ തന്നെയും) എന്ന സങ്കൽപം തന്നെ മാറ്റിമറിച്ച സിനിമയായിരുന്നു അത്.</description>
+      
     </item>
     
   </channel>
