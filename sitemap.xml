@@ -23,12 +23,17 @@
   </url>
   
   <url>
-    <loc>https://raghug.com/cabins/</loc>
+    <loc>https://raghug.com/credits/</loc>
     <lastmod>2023-05-15T17:44:59+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://raghug.com/tags/web/</loc>
+    <loc>https://raghug.com/tags/credits/</loc>
+    <lastmod>2023-05-15T17:44:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://raghug.com/tags/tools/</loc>
     <lastmod>2023-05-15T17:44:59+05:30</lastmod>
   </url>
   
@@ -254,11 +259,6 @@
   
   <url>
     <loc>https://raghug.com/tags/script/</loc>
-    <lastmod>2015-09-24T11:00:34+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://raghug.com/tags/tools/</loc>
     <lastmod>2015-09-24T11:00:34+05:30</lastmod>
   </url>
   

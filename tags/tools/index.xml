@@ -6,7 +6,19 @@
     <description>Recent content in tools on Raghu G.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 24 Sep 2015 11:00:34 +0530</lastBuildDate><atom:link href="https://raghug.com/tags/tools/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 May 2023 17:44:59 +0530</lastBuildDate><atom:link href="https://raghug.com/tags/tools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Credits</title>
+      <link>https://raghug.com/credits/</link>
+      <pubDate>Mon, 15 May 2023 17:44:59 +0530</pubDate>
+      
+      <guid>https://raghug.com/credits/</guid>
+      
+        <description>Website Credits:
+ CMS by Hugo Theme Anatole by Alexander Bilz Text editor: VS code Hosted in: Github  </description>
+      
+    </item>
+    
     <item>
       <title>Quentin Tarantino</title>
       <link>https://raghug.com/post/tarantino/</link>
